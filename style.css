@@ -1,11 +1,13 @@
-body{
-    background-color: aliceblue;}
+body {
+    background-color: aliceblue;
 }
+
 /*trtrtrtrtrt*/
-img{
+img {
     width: 10%
 }
-header{
+
+header {
     display: flex;
     justify-content: space-around;
     align-items: center;
