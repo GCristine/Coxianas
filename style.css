@@ -1,38 +1,30 @@
-body {
-    background-color: rgb(169, 223, 196);
+body { background-color: rgb(169, 223, 196);
 }
+.engrenagem{  
+    with: 5%;
+ }
 
-/*trtrtrtrtrt*/
-img {
-    width: 10%
-}
-
-header {
+header{
     display: flex;
     justify-content: space-around;
-    align-items: center;
-}
-
-.intro{
-    display: flex;
-}
-
-ul{
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-    align-items: center;
-    padding: 16px
+    align-items: center; 
+    background-color: white
     ;
 }
-
-a{
-    color: black;
-    text-decoration: none;
+.caraqcriouocarro{
+    width: 18%;
 }
-
-equipe{
+.textoum{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.equipe{
     display: grid;
-    grid-template-columns: 33%  33% 33%;
-    
+    grid-template-columns: 33% 33% 33%; 
+    color: whitesmoke;
 }
+.fotobobao{
+    width: 40%;
+}
+
